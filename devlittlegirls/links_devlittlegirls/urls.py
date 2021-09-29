@@ -1,7 +1,8 @@
 from django.urls import path
-from sitedevlittlegirls import views
+from links_devlittlegirls import views
 
 
 urlpatterns = [
 
 ]
+

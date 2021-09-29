@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'sitedevlittlegirls.apps.sitedevlittlegirlsConfig',
+    'links_devlittlegirls.apps.links_devlittlegirlsConfig',
 ]
 
 MIDDLEWARE = [
