@@ -1,0 +1,9 @@
+Instuções para rodar o site (tutorial utilizado https://www.devmedia.com.br/como-criar-um-blog-com-django-e-python/33710#Configurando):
+
+Configurando o ambiente:
+ - Realizar download do Python
+ - Navegar até a pasta do projeto (workspace\Dev-little-girls)
+ - Abrir um terminal e executar o comando: site_devlittlegirls\Scripts\activate
+ - Executar o comando para intalar o Django: pip install Django==1.8.5
+ - Para iniciar o servidor é através do seguinte comando: python manage.py runserver
+ - Para abrir a pagina digite no navegador: http://127.0.0.1:8000/site_devlittlegirls_app/index.html
