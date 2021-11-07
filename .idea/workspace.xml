@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89960a5f-92a6-45e4-9646-82bc119ac180" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/css/LineIcons.2.0.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/css/glightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/css/tiny-slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/fonts/LineIcons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/fonts/LineIcons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/fonts/LineIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/fonts/LineIcons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/fonts/LineIcons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/images/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/images/favicon1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/images/hero/laptop-g26bd634ce_1280.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/images/logo/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/images/logo/logo11.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/images/logo/white-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/images/logo/white-logo2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/images/logo/white-logo22.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/images/logo/white-logo33.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/images/profile/profile-of-a-girl-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/images/profile/profile-of-a-girl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/js/count-up.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/js/glightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/js/tiny-slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/assets/mail/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dev-little-girls/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instruções_M.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/grunt/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/grunt/.stylelintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/grunt/browsers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/grunt/bs-commonjs-generator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/grunt/bs-glyphicons-data-generator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/grunt/bs-lessdoc-parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/grunt/bs-raw-files-generator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/grunt/change-version.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/grunt/configBridge.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/grunt/generate-sri.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/grunt/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/affix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/transition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/alerts.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/badges.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/bootstrap.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/breadcrumbs.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/button-groups.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/buttons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/carousel.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/close.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/code.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/component-animations.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/dropdowns.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/forms.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/glyphicons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/grid.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/input-groups.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/jumbotron.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/labels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/list-group.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/media.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/alerts.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/background-variant.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/border-radius.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/buttons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/center-block.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/clearfix.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/forms.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/gradients.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/grid-framework.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/grid.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/hide-text.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/image.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/labels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/list-group.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/nav-divider.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/nav-vertical-align.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/opacity.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/pagination.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/panels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/progress-bar.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/reset-filter.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/reset-text.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/resize.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/responsive-visibility.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/size.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/tab-focus.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/table-row.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/text-emphasis.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/text-overflow.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/vendor-prefixes.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/modals.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/navbar.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/navs.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/normalize.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/pager.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/pagination.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/panels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/popovers.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/print.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/progress-bars.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/responsive-embed.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/responsive-utilities.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/scaffolding.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/tables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/theme.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/thumbnails.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/tooltip.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/type.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/utilities.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/less/wells.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/bootstrap/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Dev-little-girls.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_devlittlegirls_app/static/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/site_devlittlegirls_app/static/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_devlittlegirls_app/templates/Django/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site_devlittlegirls_app/templates/Django/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/site_devlittlegirls_app/views.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/site_devlittlegirls_project/wsgi.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/manage.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1zuxGspHdNLrpwFK9sTo8Wy8cgP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.settings">
+    <configuration name="Generators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\workspace\Dev-little-girls\site_devlittlegirls\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/Generators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Dev-little-girls" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Marcia\PycharmProjects\pythonProject\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/site_devlittlegirls_project" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/site_devlittlegirls_project/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Dev-little-girls" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/site_devlittlegirls_app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/site_devlittlegirls_app/urls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.settings" />
+        <item itemvalue="Python.Generators" />
+        <item itemvalue="Python.urls" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89960a5f-92a6-45e4-9646-82bc119ac180" name="Changes" comment="" />
+      <created>1635011685072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635011685072</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
