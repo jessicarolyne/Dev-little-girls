@@ -2,7 +2,6 @@
 Template Name: Appvilla - Creative Landing Page HTML Template.
 Author: GrayGrids
 */
-
 (function () {
     //===== Prealoder
 
@@ -19,6 +18,8 @@ Author: GrayGrids
     /*=====================================
     Sticky
     ======================================= */
+	
+	
     window.onscroll = function () {
         var header_navbar = document.querySelector(".navbar-area");
         var sticky = header_navbar.offsetTop;
@@ -26,23 +27,10 @@ Author: GrayGrids
         var logo = document.querySelector('.navbar-brand img')
         if (window.pageYOffset > sticky) {
           header_navbar.classList.add("sticky");
-<<<<<<< HEAD
-<<<<<<< HEAD
-          logo.src = 'static/images/logo/logo.svg';
+          logo.src = "//static/images/logo/logo.svg'";
         } else {
           header_navbar.classList.remove("sticky");
-          logo.src = 'static/images/logo/white-logo.svg';
-=======
-=======
->>>>>>> cd17ec10bb189cbf40320d43716a2c9d160781b5
-          logo.src = 'assets/images/logo/logo.svg';
-        } else {
-          header_navbar.classList.remove("sticky");
-          logo.src = 'assets/images/logo/white-logo.svg';
-<<<<<<< HEAD
->>>>>>> cd17ec10bb189cbf40320d43716a2c9d160781b5
-=======
->>>>>>> cd17ec10bb189cbf40320d43716a2c9d160781b5
+          logo.src = "//static/images/logo/white-logo.svg";
         }
 
         // show or hide the back-top-top button

@@ -17,8 +17,8 @@ def index(request):
 
     return render(request, 'django/index.html', dicionario_contexto)
 
-def more(request):
+#def more(request):
 
-    dicionario_contexto2  = {'msgnegrito2': "Testando fonte em negrito..."}
+#    dicionario_contexto2  = {'msgnegrito2': "Testando fonte em negrito..."}
 
-    return render(request, 'django/more.html', dicionario_contexto2)
+ #   return render(request, 'django/more.html', dicionario_contexto2)
