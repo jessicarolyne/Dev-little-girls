@@ -1,2 +1,2 @@
 # Dev-little-girls
-Projeto integrador UNIVESP para criação de um site através de um framework web. Vamos utilizar as ferramentas Djanto e JavaScript.
+Projeto integrador UNIVESP, onde iremos desenvolver um framework web utilizando as ferramentas Django, JavaScript, CSS, Bootstrap entre outras.
