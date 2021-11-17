@@ -15,6 +15,6 @@ def index(request):
     # Fazemos uso da função de atalho para facilitar tudo.
     # Note que o primeiro parâmetro é o template que desejamos usar.
 
-    return render(request, 'django/index.html', dicionario_contexto)
+    return render(request, 'Django/index.html', dicionario_contexto)
 
  #   return render(request, 'django/more.html', dicionario_contexto2)
