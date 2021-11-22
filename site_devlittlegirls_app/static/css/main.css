@@ -892,7 +892,11 @@ ol {
 }
 
 .courses-div {
+<<<<<<< HEAD
   margin: 30px 0;
+=======
+  margin: 20px 0;
+>>>>>>> 8852fb2e996d4e7fc21c782631997c69a763001a
 }
 
 .courses-card {

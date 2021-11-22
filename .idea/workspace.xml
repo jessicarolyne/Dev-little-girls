@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89960a5f-92a6-45e4-9646-82bc119ac180" name="Changes" comment="" />
+    <list default="true" id="89960a5f-92a6-45e4-9646-82bc119ac180" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dev-little-girls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dev-little-girls/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_devlittlegirls_app/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/site_devlittlegirls_app/static/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_devlittlegirls_app/templates/Django/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site_devlittlegirls_app/templates/Django/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
