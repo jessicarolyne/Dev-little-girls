@@ -1,1 +1,1 @@
-web: gunicorn mysite.wsgi:site_devlittlegirls --log-file -
+web: gunicorn mysite.wsgi:site_devlittlegirls.wsgi --log-file -
